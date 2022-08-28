@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    color: yellowgreen;
+    border: 20px solid blueviolet;
+}
+footer{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    padding: 25px;
+}
